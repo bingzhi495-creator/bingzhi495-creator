@@ -13,6 +13,7 @@ This folder organizes education-focused skills as reusable public resources. The
 | Programming & STEM | Python, web, algorithms, computational thinking | [Programming & STEM Teaching](programming-stem/programming-stem-skill.md) |
 | Resource Production | Worksheets, templates, activity guides, documentation | [Educational Resource Production](resource-production/resource-production-skill.md) |
 | Student Guidance | Topic selection, planning, evidence chains, presentations | [Student Project Guidance](student-guidance/student-project-guidance-skill.md) |
+| Skill Building | Extracting reusable patterns from GitHub knowledge | [Skills for Skills](skill-building/skill-for-skills.md) |
 
 ## Public Boundary
 
